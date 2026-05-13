@@ -1,0 +1,18 @@
+{
+  "debug_timing": false,
+  "socks_host": "127.0.0.1",
+  "socks_port": 1080,
+  "google_host": "216.239.38.120",
+  "sni": ["www.google.com", "mail.google.com", "accounts.google.com"],
+
+
+
+  "tunnel_key": "A LONG STRING THAT IS ACTUALLY BORE TUNNEL KEY", 
+  "script_keys": [
+    { "id": "GOOGLE SCRIPT DEPLOY ID", "account": "acct-a" }
+  ],
+  "socks_host": "127.0.0.1",
+  "socks_port": 1080,
+  "coalesce_step_ms": 0,
+  "idle_slots_per_bucket": 1
+}
